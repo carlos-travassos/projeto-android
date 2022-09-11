@@ -113,6 +113,11 @@ main img {
   width: 100%;
 }
 
+main img:hover {
+  transition: transform .5s;
+  transform: scale(1.1);
+  transition-delay: 200ms;
+
 div.video {
   background-color: var(--cor5);
   margin: 8px -20px 30px -20px;
