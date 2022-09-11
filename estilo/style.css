@@ -117,6 +117,7 @@ main img:hover {
   transition: transform .5s;
   transform: scale(1.1);
   transition-delay: 200ms;
+}
 
 div.video {
   background-color: var(--cor5);
